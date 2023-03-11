@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### Self-education
 
-* [DataCamp specialization "Data Scientist with Python"](https://www.datacamp.com/profile/bkamuz)
-* ["Python Fundamentals" Track (consist of different courses)](https://www.datacamp.com/profile/bkamuz)
+* [DataCamp Specialization "Data Scientist with Python"](https://www.datacamp.com/profile/bkamuz)
+* [Datacamp Track "Python Fundamentals"](https://www.datacamp.com/profile/bkamuz)
 
 ### Degree
 
