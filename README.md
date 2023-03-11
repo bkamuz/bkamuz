@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 * PineScript, Freqtrade
 * Cycling74 Max
 
-<!-- 
+
 ### Expertise
 
 * Data Engineering
@@ -55,6 +55,13 @@ Here are some ideas to get you started:
 
 ### Experience
 
+<img src="https://static.tildacdn.com/tild6164-3265-4962-b931-663232666466/Waves_W.png" alt="alt text" width="50" height="15"> Data Scientist, [Self-Employed](https://www.notion.so/bkamuz/Kamuz-Bo-d3f0e69c00a941ac847ab8ff949d87e3) : 2023 - now (Remote)
+
+<img src="https://planit-inc.com/wp-content/themes/planit/assets/img/tild3536-3831-4730-a232-633966353561__planit-logo_white.svg" alt="alt text" width="50" height="15"> Plan and Control Specialist, [PlanIt Inc.](https://planit-inc.com/) : 2015 - 2022 (Head Office: Oakland, CA, USA)
+
+<img src="https://static.tildacdn.com/tild6164-3265-4962-b931-663232666466/Waves_W.png" alt="alt text" width="50" height="15"> Audio Software Developer, [Self-Employed](http://bkamuz.tilda.ws/en/else) : 2018 - 2022 (Remote)
+
+<!--
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Senior Data Engineer, Raiffeisenbank International AG: 2022-06 - (Now)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Data Engineer, Raiffeisenbank Russia: 2020-10 - 2022-06
@@ -62,6 +69,4 @@ Here are some ideas to get you started:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Expert Data Scientist, Raiffeisenbank Russia: 2020-01 - 2020-10
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Senior Data Scientist, Raiffeisenbank Russia: 2019-04 - 2020-01
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Raiffeisen_Bank.svg/264px-Raiffeisen_Bank.svg.png" alt="alt text" width="60" height="20"> Data Analyst, Raiffeisenbank Russia: 2018-01 - 2019-04
  -->
