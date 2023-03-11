@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 * Quantum Computation / Information
 * Audio/Visual Processing (music production/medicine)
 * Automation
+* Patterns and Prediction Models
 * Network Analysis & Graph Theory
 
 ### Main Skills
