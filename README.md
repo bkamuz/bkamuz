@@ -56,9 +56,11 @@ Here are some ideas to get you started:
 
 ### Experience
 
-<img src="https://gb.ru/favicon.ico" alt="alt text" width="50" height="15"> Data Scientist, [Self-Employed](https://www.notion.so/bkamuz/Kamuz-Bo-d3f0e69c00a941ac847ab8ff949d87e3) : 2023 - now (Remote)
+<img style="test" src="https://gb.ru/favicon.ico" alt="alt text" width="50" height="15"> Data Scientist, [Self-Employed](https://www.notion.so/bkamuz/Kamuz-Bo-d3f0e69c00a941ac847ab8ff949d87e3) : 2023 - now (Remote)
 
-<img src="https://planit-inc.com/wp-content/themes/planit/assets/img/tild3536-3831-4730-a232-633966353561__planit-logo_white.svg" alt="alt text" width="50" height="15"> Plan and Control Specialist, [PlanIt Inc.](https://planit-inc.com/) : 2015 - 2022 (Head Office: Oakland, CA, USA)
+<img src="https://planit-inc.com/wp-content/themes/planit/assets/img/tild3536-3831-4730-a232-633966353561__planit-logo_white.svg" alt="alt text" width="50" height="15"> 
+<span style="">Works.</span>
+Plan and Control Specialist, [PlanIt Inc.](https://planit-inc.com/) : 2015 - 2022 (Head Office: Oakland, CA, USA)
 
 <img src="https://static.tildacdn.com/tild6164-3265-4962-b931-663232666466/Waves_W.png" alt="alt text" width="50" height="15"> Audio Software Developer, [Self-Employed](http://bkamuz.tilda.ws/en/else) : 2018 - 2022 (Remote)
 
