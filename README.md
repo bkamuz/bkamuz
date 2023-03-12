@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 [![Codewars](https://www.codewars.com/users/bkamuz/badges/large)](https://www.codewars.com/users/bkamuz)
 
-### Self-education
+### Self-Education
 
 * [DataCamp Specialization "Data Scientist with Python"](https://www.datacamp.com/profile/bkamuz)
 * [DataCamp Track "Python Fundamentals"](https://www.datacamp.com/profile/bkamuz)
+* [Coursera "IBM Data Science"](https://coursera.org/share/fc6414fbd3299902d096e489e1d00161)
 
 ### Degree
 
@@ -38,13 +39,13 @@ Here are some ideas to get you started:
 ### Main Skills
 
 * Python + ML (Pandas, Numpy, Scikit-learn, Tensorflow, OpenCV, Seaborn)
-* Data Engineering Stack (SQL)
+* Data Engineering (SQL)
+* Linux, Bash
 
 ### Additional Skills
 
 * PineScript, Freqtrade
 * Cycling74 Max
-
 
 ### Expertise
 
