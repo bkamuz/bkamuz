@@ -1,4 +1,4 @@
-### Bo Kamuz
+# Bo Kamuz
 
 <!--
 **bkamuz/bkamuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 [![Codewars](https://www.codewars.com/users/bkamuz/badges/large)](https://www.codewars.com/users/bkamuz)
 
-### Self-Education
+## Self-Education
 
 * [DataCamp Specialization "Data Scientist with Python"](https://www.datacamp.com/profile/bkamuz)
 * [DataCamp Track "Python Fundamentals"](https://www.datacamp.com/profile/bkamuz)
 * [Coursera "IBM Data Science"](https://coursera.org/share/fc6414fbd3299902d096e489e1d00161)
 
-### Degree
+## Degree
 
 * Bachelor degree in architecture and construction, Donbas National Academy of Civil Engineering and Architecture, 2014
 
-### Scientific Interests
+## Scientific Interests
 
 * Quantum Computation / Information
 * Audio/Visual Processing (music production / medicine)
@@ -39,29 +39,29 @@ Here are some ideas to get you started:
 
 [A road-map for becoming a Data Scientist / Engineer](https://github.com/bkamuz/bkamuz/blob/main/ROADMAP.md)
 
-### Main Skills
+## Main Skills
 
 * Python + ML (Pandas, NumPy, SeaBorn, OpenCV, SciKit-learn, Tensorflow)
 * Data Engineering (SQL)
 * Linux, Bash, Git
 
-### Additional Skills
+## Additional Skills
 
 * PineScript, FreqTrade
 * Cycling74 Max
 
-### Expertise
+## Expertise
 
 * Data Science and Analytics
 * Automation
 
-### Projects
+## Projects
 
 * Audio And MIDI virtual devices (MaxMSP): more than [8000 free downloads](https://maxforlive.com/profile/user/zaSLON) and over [1000 paid purchases](https://soundaround.gumroad.com/) - Open Source
 * Trading bot (FreqTrade): Python crypto trading bot project - trading strategy developed, the bot is running in the cloud (Oracle Instance)
 * GPT-3.5 telegram bot (OpenAI): [Птица Говорун](https://t.me/chat_govorun_bot)
 
-### Experience
+## Experience
 
 <!--
 <img style="test" src="https://gb.ru/favicon.ico" alt="alt text" width="50" height="15"> 
