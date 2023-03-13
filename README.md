@@ -58,7 +58,17 @@ After I've talked with practicing people in programming I've made my own RoadMap
 </details>
 </p>
 
-[Research projects list](https://github.com/bkamuz/data-science)
+<p>
+<details>
+<summary>Research projects list</summary>
+
+[Blured Photo Detection (link to kaggle)](https://www.kaggle.com/code/bkamuz/i-m-blur-v2/notebook)
+[World Internet Access (link to datacamp)](https://app.datacamp.com/workspace/w/173f9d78-ec7b-497d-8d79-83a95b0b789c/edit)
+
+or check [Github Repositories](https://github.com/bkamuz/data-science)
+
+</details>
+</p>
 
 </details>
 </p>
