@@ -50,7 +50,8 @@ Here are some ideas to get you started:
 ### Expertise
 
 * Data Science
-* Backend
+* Automation
+* Machine Learning
 
 ### Experience
 
