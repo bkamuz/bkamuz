@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 ### Scientific Interests
 
 * Quantum Computation / Information
-* Audio/Visual Processing (music production/medicine)
+* Audio/Visual Processing (music production / medicine)
 * Automation
 * Patterns and Prediction Models
 * Machine Learning
 * Data Mesh
 * Network Analysis & Graph Theory
 
-[A road-map for becoming a Data Scientist|Engineer](https://github.com/bkamuz/bkamuz/blob/main/ROADMAP.md)
+[A road-map for becoming a Data Scientist / Engineer](https://github.com/bkamuz/bkamuz/blob/main/ROADMAP.md)
 
 ### Main Skills
 
