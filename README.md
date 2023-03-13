@@ -37,7 +37,32 @@ Here are some ideas to get you started:
 * Data Mesh
 * Network Analysis & Graph Theory
 
-[A road-map for becoming a Data Scientist / Engineer](https://github.com/bkamuz/bkamuz/blob/main/ROADMAP.md)
+<p>
+<details>
+<summary>A Roadmap for becoming a Data Scientist / Engineer</summary>
+  
+I've been working in civil and industrial design using BIM technologies since 2015.
+My work has been indirectly related to Python programming language mainly to automate routine work.
+Due to the fact that I do not see for myself a further way as a BIM specialist, I decided to change the field of activity to a more interesting and promising.
+After some research - possible directions of development that I'm interested in are DevOps and Data Science\Engineering.
+After I've talked with practicing people in programming I've made my own RoadMap according to their recommendations.
+
+[Roadmap link](https://xmind.works/share/ESvOuG73) (or see saved Roadmap image below)
+
+<p>
+<details>
+<summary>Roadmap Image</summary>
+
+![Roadmap](images/roadmap.png)
+
+</details>
+</p>
+
+[Research projects list](https://github.com/bkamuz/data-science)
+
+</details>
+</p>
+<!-- [A road-map for becoming a Data Scientist / Engineer](https://github.com/bkamuz/bkamuz/blob/main/ROADMAP.md) -->
 
 ## Main Skills
 
@@ -62,18 +87,10 @@ Here are some ideas to get you started:
 * GPT-3.5 telegram bot (OpenAI): [Птица Говорун](https://t.me/chat_govorun_bot)
 
 ## Experience
+<!-- <img style="test" src="https://gb.ru/favicon.ico" alt="alt text" width="50" height="15"> -->
 
-<!--
-<img style="test" src="https://gb.ru/favicon.ico" alt="alt text" width="50" height="15"> 
--->
 * Data Scientist, [Self-Employed](https://www.notion.so/bkamuz/Kamuz-Bo-d3f0e69c00a941ac847ab8ff949d87e3) : 2023 - now (Remote)
 
-<!--
-<img src="https://planit-inc.com/wp-content/themes/planit/assets/img/tild3536-3831-4730-a232-633966353561__planit-logo_white.svg" alt="alt text" width="50" height="15">  
--->
 * Plan and Control Specialist, [PlanIt Inc.](https://planit-inc.com/) : 2015 - 2022 (Head Office: Oakland, CA, USA)
 
-<!--
-<img src="https://static.tildacdn.com/tild6164-3265-4962-b931-663232666466/Waves_W.png" alt="alt text" width="50" height="15"> 
--->
 * Audio Software Developer, Personal Project [Sound Around](http://bkamuz.tilda.ws/en/else) : 2018 - 2022 (Remote)
