@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 
 ### Expertise
 
-* Data Engineering
 * Data Science
 * Backend
 
