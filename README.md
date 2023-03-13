@@ -53,6 +53,12 @@ Here are some ideas to get you started:
 * Data Science and Analitics
 * Automation
 
+### Projects
+
+* Audio And MIDI virtual devices (MaxMSP) - more than [8000 free downloads](https://maxforlive.com/profile/user/zaSLON) and over [1000 paid purchases](https://soundaround.gumroad.com/) - Open Source
+* Trading bot (Freqtrade) - Python crypto trading bot project
+* GPT-3.5 telegram bot (Openai) - [Птица Шоворун](https://t.me/chat_govorun_bot)
+
 ### Experience
 
 <!--
@@ -68,4 +74,4 @@ Here are some ideas to get you started:
 <!--
 <img src="https://static.tildacdn.com/tild6164-3265-4962-b931-663232666466/Waves_W.png" alt="alt text" width="50" height="15"> 
 -->
-* Audio Software Developer, [Self-Employed](http://bkamuz.tilda.ws/en/else) : 2018 - 2022 (Remote)
+* Audio Software Developer, Personal Project [Sound Around](http://bkamuz.tilda.ws/en/else) : 2018 - 2022 (Remote)
