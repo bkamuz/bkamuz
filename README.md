@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Degree
 
-* Bachelor degree in architecture and construction, Donbass National Academy of Civil Engeneering and Architecture, 2014
+* Bachelor degree in architecture and construction, Donbas National Academy of Civil Engineering and Architecture, 2014
 
 ### Scientific Interests
 
@@ -37,27 +37,29 @@ Here are some ideas to get you started:
 * Data Mesh
 * Network Analysis & Graph Theory
 
+[A road-map for becoming a Data Scientist|Engineer](https://github.com/bkamuz/bkamuz/blob/main/ROADMAP.md)
+
 ### Main Skills
 
-* Python + ML (Pandas, Numpy, Seaborn, OpenCV, Scikit-learn, Tensorflow)
+* Python + ML (Pandas, NumPy, SeaBorn, OpenCV, SciKit-learn, Tensorflow)
 * Data Engineering (SQL)
 * Linux, Bash, Git
 
 ### Additional Skills
 
-* PineScript, Freqtrade
+* PineScript, FreqTrade
 * Cycling74 Max
 
 ### Expertise
 
-* Data Science and Analitics
+* Data Science and Analytics
 * Automation
 
 ### Projects
 
 * Audio And MIDI virtual devices (MaxMSP): more than [8000 free downloads](https://maxforlive.com/profile/user/zaSLON) and over [1000 paid purchases](https://soundaround.gumroad.com/) - Open Source
-* Trading bot (Freqtrade): Python crypto trading bot project - trading strategy developed, the bot is running in the cloud (Oracle Instatce)
-* GPT-3.5 telegram bot (Openai): [Птица Говорун](https://t.me/chat_govorun_bot)
+* Trading bot (FreqTrade): Python crypto trading bot project - trading strategy developed, the bot is running in the cloud (Oracle Instance)
+* GPT-3.5 telegram bot (OpenAI): [Птица Говорун](https://t.me/chat_govorun_bot)
 
 ### Experience
 
