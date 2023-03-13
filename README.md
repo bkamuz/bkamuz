@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 <p>
 <details>
-<summary>A Roadmap for becoming a Data Scientist / Engineer</summary>
+<summary><h2>A Roadmap for becoming a Data Scientist / Engineer</h2></summary>
   
 I've been working in civil and industrial design using BIM technologies since 2015.
 My work has been indirectly related to Python programming language mainly to automate routine work.
