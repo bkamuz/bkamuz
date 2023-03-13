@@ -47,7 +47,7 @@ Due to the fact that I do not see for myself a further way as a BIM specialist, 
 After some research - possible directions of development that I'm interested in are DevOps and Data Science\Engineering.
 After I've talked with practicing people in programming I've made my own RoadMap according to their recommendations.
 
-[Roadmap link](https://xmind.works/share/ESvOuG73) (or see saved Roadmap image below)
+[Roadmap X-mind link](https://xmind.works/share/ESvOuG73) (or see saved Roadmap image below)
 
 <p>
 <details>
