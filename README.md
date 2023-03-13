@@ -68,9 +68,7 @@ Here are some ideas to get you started:
 
 * Audio Software Developer, Personal Project [Sound Around](http://bkamuz.tilda.ws/en/else) : 2018 - 2022 (Remote)
 
-<p>
-<details>
-<summary><h2>A Roadmap for becoming a Data Scientist / Engineer</h2></summary>
+## A Roadmap for becoming a Data Scientist / Engineer
   
 I've been working in civil and industrial design using BIM technologies since 2015.
 My work has been indirectly related to Python programming language mainly to automate routine work.
@@ -91,7 +89,7 @@ After I've talked with practicing people in programming I've made my own RoadMap
 
 <p>
 <details>
-<summary>Research projects list</summary>
+<summary>Research (pet) projects list</summary>
 
 * [Blured Photo Detection (link to kaggle)](https://www.kaggle.com/code/bkamuz/i-m-blur-v2/notebook)
 
