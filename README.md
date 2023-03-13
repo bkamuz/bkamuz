@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 * Audio/Visual Processing (music production/medicine)
 * Automation
 * Patterns and Prediction Models
+* Machine Learning
 * Data Mesh
 * Network Analysis & Graph Theory
 
@@ -40,7 +41,7 @@ Here are some ideas to get you started:
 
 * Python + ML (Pandas, Numpy, Scikit-learn, Tensorflow, OpenCV, Seaborn)
 * Data Engineering (SQL)
-* Linux, Bash
+* Linux, Bash, Git
 
 ### Additional Skills
 
@@ -49,9 +50,8 @@ Here are some ideas to get you started:
 
 ### Expertise
 
-* Data Science
+* Data Science and Analitics
 * Automation
-* Machine Learning
 
 ### Experience
 
