@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### Main Skills
 
-* Python + ML (Pandas, Numpy, Scikit-learn, Tensorflow, OpenCV, Seaborn)
+* Python + ML (Pandas, Numpy, Seaborn, OpenCV, Scikit-learn, Tensorflow)
 * Data Engineering (SQL)
 * Linux, Bash, Git
 
