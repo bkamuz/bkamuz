@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ## Experience
 <!-- <img style="test" src="https://gb.ru/favicon.ico" alt="alt text" width="50" height="15"> -->
 
-* Data Scientist, [Self-Employed](https://www.notion.so/bkamuz/Kamuz-Bo-d3f0e69c00a941ac847ab8ff949d87e3) : 2023 - now (Remote)
+* Python Developer, [Self-Employed](https://www.notion.so/bkamuz/Kamuz-Bo-d3f0e69c00a941ac847ab8ff949d87e3) : 2023 - now (Remote)
 
 * Plan and Control Specialist, [PlanIt Inc.](https://planit-inc.com/) : 2015 - 2022 (Head Office: Oakland, CA, USA)
 
@@ -73,10 +73,10 @@ Here are some ideas to get you started:
 I've been working in civil and industrial design using BIM technologies since 2015.
 My work has been indirectly related to Python programming language mainly to automate routine work.
 Due to the fact that I do not see for myself a further way as a BIM specialist, I decided to change the field of activity to a more interesting and promising.
-After some research - possible directions of development that I'm interested in are DevOps and Data Science\Engineering.
-After I've talked with practicing people in programming I've made my own RoadMap according to their recommendations.
+After some research - possible directions of development that I'm interested in Python Developing, GO, DevOps and Data Science\Engineering.
+<!-- After I've talked with practicing people in programming I've made my own RoadMap according to their recommendations. 
 
-[Roadmap X-mind link](https://xmind.works/share/ESvOuG73) (or see saved Roadmap image below)
+[Roadmap X-mind link](https://xmind.works/share/ESvOuG73) (or see saved Roadmap image below) 
 
 <p>
 <details>
@@ -86,7 +86,7 @@ After I've talked with practicing people in programming I've made my own RoadMap
 
 </details>
 </p>
-
+-->
 <p>
 <details>
 <summary>Research (pet) projects list</summary>
