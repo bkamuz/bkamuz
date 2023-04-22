@@ -56,17 +56,17 @@ Here are some ideas to get you started:
 ## Projects
 
 * Audio And MIDI virtual devices (MaxMSP): more than [8000 free downloads](https://maxforlive.com/profile/user/zaSLON) and over [1000 paid purchases](https://soundaround.gumroad.com/) - Open Source
-* Trading bot (FreqTrade): Python crypto trading bot project - trading strategy developed, the bot is running in the cloud (Oracle Instance)
+* Trading bot (FreqTrade): Python crypto trading bot project - trading strategy developed, the bot is running in the cloud (Oracle Instance) [see repos]
 * GPT-4 telegram bot (OpenAI): [Птица Говорун](https://t.me/chat_govorun_bot)
 
 ## Experience
 <!-- <img style="test" src="https://gb.ru/favicon.ico" alt="alt text" width="50" height="15"> -->
 
-* Python Developer, [Self-Employed](https://www.notion.so/bkamuz/Kamuz-Bo-d3f0e69c00a941ac847ab8ff949d87e3) : 2023 - now (Remote)
+* Python Developer, [Self-Employed](https://career.habr.com/bkamuz) : 2023 - now (Personal Project)
 
-* Plan and Control Specialist, [PlanIt Inc.](https://planit-inc.com/) : 2015 - 2022 (Head Office: Oakland, CA, USA)
+* Plan and Control Specialist, [PlanIt Inc.](https://planit-inc.com) : 2015 - 2022 (Remote, Head Office: Oakland, CA, USA)
 
-* Audio Software Developer, Personal Project [Sound Around](http://bkamuz.tilda.ws/en/else) : 2018 - 2022 (Remote)
+* Audio Software Developer, [Sound Around](http://bkamuz.tilda.ws/en/else) : 2018 - 2022 (Personal Project)
 
 ## A Roadmap for becoming a Data Scientist / Engineer
   
