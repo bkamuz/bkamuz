@@ -57,7 +57,6 @@ Here are some ideas to get you started:
 
 * Audio And MIDI virtual devices (MaxMSP): more than [8000 free downloads](https://maxforlive.com/profile/user/zaSLON) and over [1000 paid purchases](https://soundaround.gumroad.com/) - Open Source
 * Trading bot (FreqTrade): Python crypto trading bot project - trading strategy developed, the bot is running in the cloud (Oracle Instance) [see repos]
-* GPT-4 telegram bot (OpenAI): [Птица Говорун](https://t.me/chat_govorun_bot)
 
 ## Experience
 <!-- <img style="test" src="https://gb.ru/favicon.ico" alt="alt text" width="50" height="15"> -->
