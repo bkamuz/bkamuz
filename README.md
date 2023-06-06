@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 * Audio Software Developer, [Sound Around](http://bkamuz.tilda.ws/en/else) : 2018 - 2022 (Personal Project)
 
-## A Roadmap for becoming a Data Scientist / Engineer
+## About
   
 I've been working in civil and industrial design using BIM technologies since 2015.
 My work has been indirectly related to Python programming language mainly to automate routine work.
