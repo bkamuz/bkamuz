@@ -61,7 +61,9 @@ Here are some ideas to get you started:
 ## Experience
 <!-- <img style="test" src="https://gb.ru/favicon.ico" alt="alt text" width="50" height="15"> -->
 
-* Python Developer, [Self-Employed](https://career.habr.com/bkamuz) : 2023 - now (Personal Project)
+* Lead Analyst, [AWADA](https//awada.ru) : 2023 - now (Yaroslavl, Russia)
+
+* Python Developer, [Self-Employed](https://career.habr.com/bkamuz) : 2022 - 2023 (Personal Projects)
 
 * Plan and Control Specialist, [PlanIt Inc.](https://planit-inc.com) : 2015 - 2022 (Remote, Head Office: Oakland, CA, USA)
 
@@ -72,7 +74,7 @@ Here are some ideas to get you started:
 I've been working in civil and industrial design using BIM technologies since 2015.
 My work has been indirectly related to Python programming language mainly to automate routine work.
 Due to the fact that I do not see for myself a further way as a BIM specialist, I decided to change the field of activity to a more interesting and promising.
-After some research - possible directions of development that I'm interested in Python Developing, GO, DevOps and Data Science\Engineering.
+After some research - possible directions of development that I'm interested in DevOps and Data Science\Engineering.
 <!-- After I've talked with practicing people in programming I've made my own RoadMap according to their recommendations. 
 
 [Roadmap X-mind link](https://xmind.works/share/ESvOuG73) (or see saved Roadmap image below) 
